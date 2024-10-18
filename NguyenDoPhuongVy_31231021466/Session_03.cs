@@ -6,8 +6,8 @@ namespace NguyenDoPhuongVy_31231021466
         public static void Main(string[] args)
         {
             //Exercise_01();
-            //Exercise_02();
-            Exercise_03();
+            Exercise_02();
+            //Exercise_03();
             Console.WriteLine("Press any key to stop");
             Console.ReadKey();
         }
@@ -25,8 +25,8 @@ namespace NguyenDoPhuongVy_31231021466
             Console.Write("Enter a radius= ");
             double radius = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("surface = {0}", double.Pi * 4 * radius*radius);
-            Console.WriteLine("volume = {0}", double.Pi * 4/3 *radius*radius*radius);
+            Console.WriteLine("surface = {0}", double.Pi * 4 * radius * radius);
+            Console.WriteLine("volume = {0}",  4/3 * double.Pi * radius*radius*radius);
         }
 
         public static void Exercise_03() 
