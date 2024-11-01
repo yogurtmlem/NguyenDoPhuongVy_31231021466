@@ -1,9 +1,9 @@
-﻿
+
 namespace NguyenDoPhuongVy_31231021466
 {
     internal class Session_03
     {
-        public static void Main(string[] args)
+        public static void Main48(string[] args)
         {
             //Exercise_01();
             Exercise_02();
