@@ -3,7 +3,7 @@ namespace NguyenDoPhuongVy_31231021466
 {
     internal class Session_05
     {
-        public static void Main(string[] args)
+        public static void Maina(string[] args)
         {
             //Exercise_01();
             //Exercise_02();
