@@ -4,7 +4,7 @@ namespace NguyenDoPhuongVy_31231021466
 {
     internal class Session_06
     {
-        private static void Main(string[] args)
+        private static void Mainu(string[] args)
         {
             Console.WriteLine("Nhap so phan tu mang: ");
             int N = int.Parse(Console.ReadLine());
